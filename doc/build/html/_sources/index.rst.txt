@@ -19,6 +19,7 @@ To install 3rd party theme, you can go to :ref:`3rd Party Theme Installation <3r
    :caption: Contents:
 
    youtube
+   usefulmarkups
 
 
 Indices and tables
