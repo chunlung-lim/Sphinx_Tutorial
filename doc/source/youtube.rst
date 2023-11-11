@@ -5,7 +5,7 @@ Useful YouTube Videos Tutorial:
 
 These are the useful YouTube Videos that would help you to understand how to use Sphinx.
 In order to show the YouTube video in the page, you need to go to the YouTube video and click **Share** icon then click **Embed**.  
-Then copy the iframe code from **Embed Video**..
+Then copy the iframe code from **Embed Video**.
 
 
 .. raw:: html
