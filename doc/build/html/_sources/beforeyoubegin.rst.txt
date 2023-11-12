@@ -11,6 +11,11 @@ Sphinx installation:
  * pip install sphinx
  * pip install sphinx_rtd_theme
 
+Sphinx setup:
+-------------
+
+* sphinx-quickstart
+
 .. _3rdParty:
 
 Add 3rd party theme:
