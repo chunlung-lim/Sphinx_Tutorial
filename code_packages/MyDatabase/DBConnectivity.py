@@ -11,7 +11,7 @@ class SphinxDB:
 
     def connectToDB(self, serverInfo) -> True:
         '''
-        This method is used to connect to database.
+        :func: connectToDB is used to connect to database.
         :param serverInfo: str
         :return: Bool
         '''
